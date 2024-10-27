@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer Adiyaman</h1>
+<h1 align="center">Hi, I'm Ömer Adiyaman</h1>
 <h3 align="center">A passionate .NET Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **E-Commerce .NET Project**
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/omeradiyaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omeradiyaman" height="30" width="40" /></a>
+<a href="https://twitter.com/omeradiyamann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omeradiyaman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ömer-adiyaman-a202b924a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer-adiyaman-a202b924a" height="30" width="40" /></a>
 </p>
 
